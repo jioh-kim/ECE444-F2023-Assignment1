@@ -28,7 +28,8 @@
 **Activity 5:**
 
 <img width="450" alt="image" src="https://github.com/jioh-kim/ECE444-F2023-Assignment1/assets/77854386/bddc732b-4df4-45d8-bbaa-1743a03a6e11">
-<img width="430" alt="image" src="https://github.com/jioh-kim/ECE444-F2023-Assignment1/assets/77854386/5e4bc310-ec87-45aa-90f2-d81bb5f03b40">
+<img width="550" alt="image" src="https://github.com/jioh-kim/ECE444-F2023-Assignment1/assets/77854386/a23be1be-1b38-4501-9610-be9ed4bff58b">
+
 
 
 
