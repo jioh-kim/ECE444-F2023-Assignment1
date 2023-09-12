@@ -8,3 +8,8 @@ Activity 2:
 
 <img width="416" alt="image" src="https://github.com/jioh-kim/ECE444-F2023-Assignment1/assets/77854386/3c4305e6-1f11-4c9f-b62f-23dcc9cf10bd">
 
+Activity 3:
+
+<img width="938" alt="image" src="https://github.com/jioh-kim/ECE444-F2023-Assignment1/assets/77854386/6eaf76a9-fb6a-4f7c-9848-7682a4beaeb6">
+
+
